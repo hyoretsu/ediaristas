@@ -1,0 +1,12 @@
+{
+    "editor.tabSize": 4,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.arrowParens": "always",
+    "prettier.printWidth": 80
+}
